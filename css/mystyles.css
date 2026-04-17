@@ -1,0 +1,51 @@
+/* Custom background */
+body {
+    background-color: #e6f2ff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #003366;
+    margin: 40px;
+}
+
+/* Header styling */
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Image section */
+.image-section {
+    text-align: center;
+    margin: 20px;
+}
+
+.image-section img {
+    max-width: 400px;
+    border-radius: 10px;
+}
+
+/* About section */
+.about-section {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+/* Video section */
+.video-section {
+    text-align: center;
+    margin: 30px;
+}
+
+/* Tableau section */
+.tableau-section {
+    text-align: center;
+    margin: 30px;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bold;
+}
